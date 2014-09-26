@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OffersDisplay</string>
+    <string name="parameter_uid">uid:</string>
+    <string name="parameter_apikey">API key:</string>
+    <string name="parameter_appid">appid:</string>
+    <string name="parameter_pub0">pub0:</string>
+    <string name="get_offers_btn">Get Offers!</string>
+    <string name="offers_str">OFFERS</string>
+    <string name="thumbnailContentDescription">thumbnail</string>
+
+</resources>
